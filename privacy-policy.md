@@ -10,6 +10,6 @@ android.permission.ACCESS_NETWORK_STATE
 
 Third parties: No third-party data sharing.
 
-Contact: levin.dimon@gmail.com
+Contact: coffeecupmobile@gmail.com
 
 Effective date: 20.01.2026
